@@ -1,0 +1,44 @@
+item { 
+	name:'sevmek'
+	id:1
+}
+item { 
+	name:'nasilsin'
+	id:2
+}
+item { 
+	name:'gezmek'
+	id:3
+}
+item { 
+	name:'kardes'
+	id:4
+}
+item { 
+	name:'lazim'
+	id:5
+}
+item { 
+	name:'misafir'
+	id:6
+}
+item { 
+	name:'ogretmek'
+	id:7
+}
+item { 
+	name:'saat'
+	id:8
+}
+item { 
+	name:'sormak'
+	id:9
+}
+item { 
+	name:'taksi'
+	id:10
+}
+item { 
+	name:'ucgen'
+	id:11
+}
